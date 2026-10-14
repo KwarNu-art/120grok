@@ -1,0 +1,9 @@
+Package: com.super120hz.tweak
+Name: Super120Hz
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Two-in-one — lock high refresh (up to 120 Hz on ProMotion) + glass FPS pill. Background auto-refresh every 5s. Not magic on 60 Hz panels.
+Maintainer: Kwar Nu
+Author: Kwar Nu
+Section: Tweaks
